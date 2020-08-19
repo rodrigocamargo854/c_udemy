@@ -1,0 +1,21 @@
+{
+    "folders": [
+		{
+			"path": "..\\Arrays"
+		},
+		{
+			"path": "..\\testesunitarios"
+		},
+		{
+			"path": "..\\primeira-aula"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Raiz"
+		]
+	}
+}

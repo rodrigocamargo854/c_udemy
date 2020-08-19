@@ -1,0 +1,11 @@
+C:\Users\profr\dev\c_udemy\bin\Debug\netcoreapp3.1\c_udemy.exe
+C:\Users\profr\dev\c_udemy\bin\Debug\netcoreapp3.1\c_udemy.deps.json
+C:\Users\profr\dev\c_udemy\bin\Debug\netcoreapp3.1\c_udemy.runtimeconfig.json
+C:\Users\profr\dev\c_udemy\bin\Debug\netcoreapp3.1\c_udemy.runtimeconfig.dev.json
+C:\Users\profr\dev\c_udemy\bin\Debug\netcoreapp3.1\c_udemy.dll
+C:\Users\profr\dev\c_udemy\bin\Debug\netcoreapp3.1\c_udemy.pdb
+C:\Users\profr\dev\c_udemy\obj\Debug\netcoreapp3.1\c_udemy.csprojAssemblyReference.cache
+C:\Users\profr\dev\c_udemy\obj\Debug\netcoreapp3.1\c_udemy.AssemblyInfoInputs.cache
+C:\Users\profr\dev\c_udemy\obj\Debug\netcoreapp3.1\c_udemy.AssemblyInfo.cs
+C:\Users\profr\dev\c_udemy\obj\Debug\netcoreapp3.1\c_udemy.dll
+C:\Users\profr\dev\c_udemy\obj\Debug\netcoreapp3.1\c_udemy.pdb

@@ -1,0 +1,11 @@
+C:\Users\profr\dev\c_udemy\modificador_params\bin\Debug\netcoreapp3.1\modificador_params.exe
+C:\Users\profr\dev\c_udemy\modificador_params\bin\Debug\netcoreapp3.1\modificador_params.deps.json
+C:\Users\profr\dev\c_udemy\modificador_params\bin\Debug\netcoreapp3.1\modificador_params.runtimeconfig.json
+C:\Users\profr\dev\c_udemy\modificador_params\bin\Debug\netcoreapp3.1\modificador_params.runtimeconfig.dev.json
+C:\Users\profr\dev\c_udemy\modificador_params\bin\Debug\netcoreapp3.1\modificador_params.dll
+C:\Users\profr\dev\c_udemy\modificador_params\bin\Debug\netcoreapp3.1\modificador_params.pdb
+C:\Users\profr\dev\c_udemy\modificador_params\obj\Debug\netcoreapp3.1\modificador_params.csprojAssemblyReference.cache
+C:\Users\profr\dev\c_udemy\modificador_params\obj\Debug\netcoreapp3.1\modificador_params.AssemblyInfoInputs.cache
+C:\Users\profr\dev\c_udemy\modificador_params\obj\Debug\netcoreapp3.1\modificador_params.AssemblyInfo.cs
+C:\Users\profr\dev\c_udemy\modificador_params\obj\Debug\netcoreapp3.1\modificador_params.dll
+C:\Users\profr\dev\c_udemy\modificador_params\obj\Debug\netcoreapp3.1\modificador_params.pdb
