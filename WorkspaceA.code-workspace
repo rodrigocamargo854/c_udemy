@@ -16,6 +16,7 @@
 	"settings": {
 		"cSpell.words": [
 			"Raiz"
-		]
+		],
+		"liveServer.settings.multiRootWorkspaceName": "c_udemy"
 	}
 }
