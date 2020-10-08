@@ -3,7 +3,7 @@ using AulaEnumEntites.Enums;
 
 namespace AulaEnumEntites
 {
-     class Order
+     class Order // não é public
     {
         public int Id { get; set; }
         public DateTime Moment { get; set; }

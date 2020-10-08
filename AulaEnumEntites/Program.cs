@@ -28,8 +28,8 @@ namespace AulaEnumEntites
 
             // String para Enumerado
 
-            OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
-            System.Console.WriteLine(os);
+            // OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
+            // System.Console.WriteLine(os);
 
         }
     }

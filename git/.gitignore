@@ -1,0 +1,71 @@
+#criando o gitignoe
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+#digitar 
+#git init //  inicia repositorio na sua pasta
+########################################
+#identificando o usuario para o git
+#git config --global user.name "nome"
+#git config --global user.email "email"
+#########################################
+#comandos add, push, commit
+#commit para salvar
+#git status - para ver como está o repositório
+# em vermelho , arquivos que não estão rastreados pelo git
+#em verde arquivos pronto para comiitar
+#########################################
+#git add . - coloca o arquivo colo no stage(pronto para ser commitados)
+#git commit -m "Descrição" -- para commitar
+#git log -- mostra os commits
+#########################################
+#todos os arquivos recem criados nao sao rastreados, todos os arquivos precisam ser transferidos para area de stage
+#para entao serem commitados
+#########################################
+#gitlog --online mostra commit em linhas especificas
+
+#########################################
+#PAra voltar ao estado do cmmit atual
+#modificou porem queremos voltar
+
+#git clean -df
+#git checkout -- .
+
+#ele da a opção para resetar o commit anterior
+#########################################
+#Para desfazer o ultimo commit
+#git reset -- soft HEAD~1 ## reseta o commit anterior
+#git reset -- hard HEAD~1 ##reseta o commit anterior e as alterações no codigo
+#########################################
+#branch = 
+
+# origin é o apelido que damos ao nosso repo
+# adicionando o repo 
+#git remote add origin < uri do repositorio remoto>
+# setando a referencia
+#git remote set-url origin <uri do repositoro remoto>
+
+
+# comando para atualizar  o repositorio em relçaõ aos commits
+#Caso vc comece a trabalhar em um projeto novamente enão tiver a sequencia de commit corretas, vc n pode dar push
+# para isso utilizar
+#git pull origin master
+
+
+
+
+
+
+
+
+
+
+

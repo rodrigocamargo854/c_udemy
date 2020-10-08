@@ -1,14 +1,13 @@
 
 
-using System;
-
 namespace AulaEnumEntites.Enums
 {
-    enum OrderStatus : int // herança
+    enum OrderStatus : int //  esse tipo sera utilizado na classe Order
     {
-        Processing = 0,
-        PaymentPendig = 1,
+        PendingPayment = 0,
+        Processing = 1,
         Shipped = 2,
-        Delivery = 3
-    }
+        Delivered = 3
+    };
+
 }

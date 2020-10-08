@@ -8,31 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\profr\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/rodrigo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\profr\\dev\\c_udemy\\c_udemy.csproj",
+      "projectUniqueName": "/media/rodrigo/Dados/dev/c_udemy/c_udemy.csproj",
       "projectName": "c_udemy",
-      "projectPath": "C:\\Users\\profr\\dev\\c_udemy\\c_udemy.csproj",
-      "packagesPath": "C:\\Users\\profr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\profr\\dev\\c_udemy\\obj\\",
+      "projectPath": "/media/rodrigo/Dados/dev/c_udemy/c_udemy.csproj",
+      "packagesPath": "/home/rodrigo/.nuget/packages/",
+      "outputPath": "/media/rodrigo/Dados/dev/c_udemy/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\profr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/rodrigo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }
